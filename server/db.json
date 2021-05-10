@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "GARIMA GUPTA",
+      "mobile": "343445544",
+      "email": "garima.gupta@embold.io",
+      "password": "afdvgfgbgf",
+      "id": 1
+    },
+    {
+      "name": "15-puzzle",
+      "mobile": "662434344345",
+      "email": "garimagupta3@outlook.in",
+      "password": "dfedrrrggr",
+      "id": 2
+    }
+  ]
+}
